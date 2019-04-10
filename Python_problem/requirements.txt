@@ -1,0 +1,2 @@
+pip install PrettyTable
+pip install tweepy==3.7.0
